@@ -1,2 +1,2 @@
-# Sleepy-Chan
+# Sleepy
 zzz
